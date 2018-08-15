@@ -1,6 +1,7 @@
 # Hello-World
 Introductory repository
-##Things I like
+
+# Things I like
 * cheese
 * tea
 * adventure
